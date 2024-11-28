@@ -1,4 +1,4 @@
-## Hi there 👋
+### ⚡ Great engineers not only excel in their technical skills but also contribute significantly to the overall success and growth of their team and organization. ⚡
 
 <!--
 **proactiveguy/proactiveguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
